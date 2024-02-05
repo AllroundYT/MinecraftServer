@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StacktraceSettings">
+    <option name="folders">
+      <set>
+        <option value="$PROJECT_DIR$/src/main/java" />
+        <option value="$PROJECT_DIR$/src/main/resources" />
+        <option value="$PROJECT_DIR$/src/test/java" />
+      </set>
+    </option>
+    <option name="packages">
+      <set>
+        <option value="de.allround" />
+        <option value="de.allround.connections" />
+        <option value="de.allround.future" />
+        <option value="de.allround.network" />
+        <option value="de.allround.protocol" />
+      </set>
+    </option>
+  </component>
+</project>
